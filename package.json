@@ -1,0 +1,25 @@
+{
+  "name": "@sunssheep/test",
+  "version": "3.8.8",
+  "description": "That is just a for publishing an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test", "sunssheep"
+  ],
+  "author": "sunssheep",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlimitedLink/TESTNPMPUBLISHPACKAGE.gitt"
+  }
+}
